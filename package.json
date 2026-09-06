@@ -1,0 +1,14 @@
+{
+    "name": "my-documenso",
+    "private": true,
+    "workspaces": [
+        "apps/*",
+        "packages/*"
+    ],
+    "devDependencies": {
+        "turbo": "^2.10.12"
+    },
+    "prisma": {
+        "schema": "packages/prisma/schema.prisma"
+    }
+}

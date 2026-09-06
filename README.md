@@ -6,3 +6,6 @@ This is a clone project from https://github.com/documenso/documenso.
 
 ### Day 0 (5/9/2026)
 - Create the project
+
+### Day 1 (6/9/2026)
+- Setup Prisma

@@ -9,3 +9,6 @@ This is a clone project from https://github.com/documenso/documenso.
 
 ### Day 1 (6/9/2026)
 - Setup Prisma
+
+### Day 2 (9/9/2026)
+- Setup React Router
